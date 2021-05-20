@@ -1,5 +1,5 @@
 # IBoX
-IBoX is a "smart tool" in C# which can recognize sandboxes and analysis environments. The purpose of this tool is to detect the environment and run/don't run malware based on the result. This tool has been made for my thesis "Hunting Malware Like a Boss". This tool is executed in commercial sandbox environments like Fortinet Sandbox, Symantec Malware Analysis Sandbox, Checkpoint Threat Emulation and Cuckoo Sandbox. Only for educational purposes !!!
+IBoX is a "smart tool" in C# which can recognize sandboxes and analysis environments. It is comparable to https://github.com/a0rtega/pafish only with uknown IOC's. The purpose of this tool is to detect the environment and run/don't run malware based on the result. This tool has been made for my thesis "Hunting Malware Like a Boss". This tool is executed in commercial sandbox environments like Fortinet Sandbox, Symantec Malware Analysis Sandbox, Checkpoint Threat Emulation and Cuckoo Sandbox. Only for educational purposes !!!
 
 //Output
 
